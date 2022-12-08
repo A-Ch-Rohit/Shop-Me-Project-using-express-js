@@ -1,0 +1,10 @@
+Equipment Id,WO No,WO Start Date,WO Start Time,WO End Date,WO End Time,Manpower Cost ,Material cost ,Production cost,Other cost,Total cost,Maintenance Code/Problem codes,Maintenance Type
+P10101,279,04-01-2020,09:00,04-02-2020,09:00,100,50,175,25,350,Calerr,Breakdown Maintenance
+P10101,280,04-03-2020,09:00,04-04-2020,09:30,125,20,0,50,195,Barrier Pbm,Breakdown Maintenance
+P10101,281,04-10-2020,09:00,04-11-2020,10:45,110,0,125,0,235,Sensor dmg,Breakdown Maintenance
+P10101,282,20-04-2020,09:00,21-04-2020,07:30,210,25,76,0,311,Sensor dmg,Breakdown Maintenance
+P10101,283,25-04-2020,09:00,26-04-2020,10:15,130,0,30,30,190,Sensor dmg,Breakdown Maintenance
+P10101,284,29-04-2020,09:00,30-04-2020,10:00,140,30,50,0,220,Calerr,Breakdown Maintenance
+T10101,285,04-01-2020,09:00,04-01-2020,11:00,160,0,0,0,160,Barrier Pbm,Breakdown Maintenance
+T10101,286,04-12-2020,09:00,04-12-2020,11:00,150,0,45,0,195,Sensor dmg,Breakdown Maintenance
+T10101,287,29-04-2020,09:00,29-04-2020,10:45,175,34,90,0,299,Calerr,Breakdown Maintenance
